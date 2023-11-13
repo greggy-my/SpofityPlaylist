@@ -12,7 +12,7 @@ print(spotify_secret)
 SPOTIFY_REDIRECT_URL = 'http://localhost:8888/callback'
 
 # date = input('What date would we use for a playlist? (yyyy-mm-dd) ')
-date = '2001-09-12'
+date = '2001-09-10'
 URL_BILLBOARD = f'https://www.billboard.com/charts/hot-100/{date}/'
 
 # Getting billboard html
